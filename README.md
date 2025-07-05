@@ -2,14 +2,10 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">URL Shortner</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A sample URL Shortner project built with Java | Spring Boot for backend using a Mysql DB and React with Material Ui in backend.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
